@@ -1,6 +1,6 @@
 [
   {
-    "keys": ["super+ctrl+shift+e"],
+    "keys": ["super+e"],
     "command": "example"
   }
 ]
