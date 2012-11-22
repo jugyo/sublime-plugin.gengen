@@ -1,6 +1,6 @@
 [
   {
-    "caption": "{{{name}}}",
+    "caption": "{{{name}}}: {{{command}}}",
     "command": "{{{command}}}"
   }
 ]
