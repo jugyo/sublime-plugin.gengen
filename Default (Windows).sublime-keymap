@@ -1,6 +1,6 @@
 [
-  {
-    "keys": ["super+e"],
-    "command": "{{{command}}}"
-  }
+    {
+        "keys": ["super+e"],
+        "command": "{{{command}}}"
+    }
 ]
